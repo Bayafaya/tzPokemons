@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Inter";
+}
+body{
+    background-color: #EBECF1;
+    color: #3A3A3A;
+}
